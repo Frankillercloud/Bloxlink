@@ -30,4 +30,4 @@ REDIS_HOST = None
 REDIS_PORT = 6379
 REDIS_PASSWORD = None
 
-TOKEN = None # discord bot token
+TOKEN = MTAwMTAxNDIxMzk5MDQyNDYxNw.GbKqpu.i5-MJo_C1jId7S66kdLZqHIvGctWEy3y_RG6Tg
